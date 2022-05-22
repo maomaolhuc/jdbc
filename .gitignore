@@ -1,0 +1,6 @@
+# Project exclude paths
+/JDBCday01/target/
+/JDBCday02/target/
+/JDBCday02_01/target/
+/JDBCday02_02pool/target/
+/JDBCday02_trun/target/
