@@ -14,6 +14,8 @@
         <module>JDBCday02_01</module>
         <module>JDBCday02_02pool</module>
         <module>JDBCday02_trun</module>
+        <module>jdbc01</module>
+        <module>jdbc02</module>
     </modules>
 
     <properties>
