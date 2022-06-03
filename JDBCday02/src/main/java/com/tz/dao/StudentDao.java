@@ -7,6 +7,7 @@ import com.tz.entity.Student;
  * 方法有几个，要做哪些方法
  */
 public interface StudentDao {
+
     // 增加一个学生
     void addStudent(Student s);
 

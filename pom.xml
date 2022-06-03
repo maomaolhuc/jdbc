@@ -16,6 +16,7 @@
         <module>JDBCday02_trun</module>
         <module>jdbc01</module>
         <module>jdbc02</module>
+        <module>testConn</module>
     </modules>
 
     <properties>
